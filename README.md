@@ -2,11 +2,6 @@
 
 Esse projeto foi desenvolvido durante o Curso ReactJS do Ignite - Rocketseat
 
-## ✔️ Confira o projeto completo em:
-
-
-
-
 ## 🔨 Funcionalidades do projeto
 
 Coffee Delivery é uma aplicação para gerenciar um carrinho de compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:
